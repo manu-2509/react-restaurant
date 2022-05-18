@@ -1,0 +1,341 @@
+{
+    "restaurants":[{
+        "hotel_name":"BRU Brewpark",
+        "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/fer25owpwwa9soic6a1y",
+        "rating":4.1, 
+
+        "payments_method":"online payments",
+         "total_votes":400,
+         "reviews":309,
+         "cost_for_one":600,
+         "categories":[
+                 {"cat":"continental"},
+                 {"cat":"Pizza"},
+                 {"cat":"burger"},
+                 {"cat":"asian"}
+
+         ]
+         
+},
+{
+    "hotel_name":"Onesta",
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ycqqb0u9zx5cszgwn4bq",
+    "rating":3.7,
+    "payments_method":"cash",
+    "total_votes":700,
+    "reviews":400,
+    "cost_for_one":400,
+    "categories":[
+            {"cat":"continental"},
+            {"cat":"Pizza"},
+            {"cat":"burger"}
+       
+
+    ]
+    
+},
+{
+    "hotel_name":"Moonlight",
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/k4ootwtq2ichuee5reca",
+    "rating":4.2,
+    "payments_method":"online payments",
+    "total_votes":700,
+    "reviews":509,
+    "cost_for_one":600,
+    "categories":[
+ 
+            {"cat":"Pizza"},
+            {"cat":"burger"},
+            {"cat":"asian"}
+
+    ]
+    
+},
+{
+    "hotel_name":"Agape",
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/htl5oi2b8cd3acugbn52",
+    "rating":4.5,
+    "payments_method":"all",
+    "total_votes":800,
+    "reviews":709,
+    "cost_for_one":500,
+    "categories":[
+            {"cat":"continental"},
+            {"cat":"Pizza"},
+            {"cat":"burger"},
+            {"cat":"asian"},
+            {"cat":"shawarma"}
+
+    ]
+    
+},
+{
+    "hotel_name":"Empire",
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/rea8vn4ubttcd6gcue3p",
+    "rating":3.5,
+    "payments_method":"all",
+    "total_votes":400,
+    "reviews":3009,
+    "cost_for_one":300,
+    "categories":[
+            {"cat":"continental"},
+            {"cat":"asian"},
+            {"cat":"South Indian"},
+            {"cat":"North Indian"}
+    ]
+    
+},
+{
+    "hotel_name":"Toit",
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/zmfbaeiy3zuqmghzwn0b",
+    "rating":4.6,
+    "payments_method":"online payments",
+    "total_votes":900,
+    "reviews":4309,
+    "cost_for_one":800,
+    "categories":[
+            {"cat":"continental"},
+            {"cat":"Pizza"},
+            {"cat":"burger"},
+            {"cat":"asian"},
+            {"cat":"seafood"}
+
+    ]
+    
+},
+{
+    "hotel_name":"Black Rabbit",
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/lji6q6l3crxypngnvubf",
+    "rating":4.3,
+    "payments_method":"cash",
+    "total_votes":4000,
+    "reviews":3090,
+    "cost_for_one":1000,
+    "categories":[
+            {"cat":"continental"},
+            {"cat":"Pizza"},
+            {"cat":"burger"},
+            {"cat":"asian"},
+            {"cat":"Chinese"}
+
+    ]
+    
+},
+{
+    "hotel_name":"The Belgium Waffle Co.",
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ka6pvopmmxtzndmjqka4",
+    "rating":4,
+    "payments_method":"online payments",
+    "total_votes":700,
+    "reviews":1309,
+    "cost_for_one":900,
+    "categories":[
+            {"cat":"waffles"},
+            {"cat":"cakes"},
+            {"cat":"shakes"},
+            {"cat":"snacks"}
+
+    ]
+    
+},
+{
+    "hotel_name":"Amma's Pastries",
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/lri1a5ydukfcdacr0k4r",
+    "rating":5,
+    "payments_method":"all",
+    "total_votes":1400,
+    "reviews":3809,
+    "cost_for_one":700,
+    "categories":[
+            {"cat":"cakes"},
+            {"cat":"pastries"},
+            {"cat":"sweets"}
+        
+
+    ]
+    
+},
+{
+    "hotel_name":"Basco And fry",
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/citgpwjjpxkvzos2a1je",
+    "rating":4.2,
+    "payments_method":"cash",
+    "total_votes":1800,
+    "reviews":3050,
+    "cost_for_one":1100,
+    "categories":[
+            {"cat":"continental"},
+            {"cat":"Pizza"},
+            {"cat":"burger"},
+            {"cat":"asian"},
+            {"cat":"grill"}
+
+    ]
+    
+},
+{
+    "hotel_name":"Dindigul Thalappakatti",
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/jib5ocphlop6yy2s6oqp",
+    "rating":3.6,
+    "payments_method":"all",
+    "total_votes":4060,
+    "reviews":3230,
+    "cost_for_one":500,
+    "categories":[
+            {"cat":"Biriyani"},
+            {"cat":"Chinese"},
+            {"cat":"South Indian"},
+            {"cat":"North Indian"}
+
+    ]
+    
+},
+{
+    "hotel_name":"Salad Men",
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/zy95xg6dhpcfhwbgayk5",
+    "rating":4.1,
+    "payments_method":"online payments",
+    "total_votes":4700,
+    "reviews":2300,
+    "cost_for_one":500,
+    "categories":[
+            {"cat":"Salads"},
+            {"cat":"Healthy Food"},
+            {"cat":"Combo"}
+
+
+    ]
+    
+},
+{
+    "hotel_name":"Tera Bites",
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/iulgmbxtdhnhzrifqftj",
+    "rating":3.0,
+    "payments_method":"cash",
+    "total_votes":400,
+    "reviews":300,
+    "cost_for_one":200,
+    "categories":[
+            {"cat":"chinese"}
+          
+
+    ]
+    
+},
+{
+    "hotel_name":"Chinese Wok",
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/vnqeahbfndtlbikeorub",
+    "rating":3.4,
+    "payments_method":"all",
+    "total_votes":7400,
+    "reviews":5309,
+    "cost_for_one":250,
+    "categories":[
+        {"cat":"chinese"}
+
+    ]
+    
+},
+{
+    "hotel_name":"Sri Srinivas Pork Hotel",
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/r0cy4qhmzqayefkcjpwm",
+    "rating":3.4,
+    "payments_method":"online payments",
+    "total_votes":4000,
+    "reviews":3009,
+    "cost_for_one":100,
+    "categories":[
+           {"cat":"South Indian"},
+           {"cat":"Chinese"},
+           {"cat":"snacks"}
+
+
+    ]
+    
+},
+{
+    "hotel_name":"Smiti Snacks",
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/es6tmrwin1gdtttu4r6u",
+    "rating":2,
+    "payments_method":"online payments",
+    "total_votes":350,
+    "reviews":300,
+    "cost_for_one":100,
+    "categories":[
+            {"cat":"Snacks"}
+        
+
+    ]
+    
+},
+{
+    "hotel_name":"Leon Grill",
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/r4ufflqojich0r29efvc",
+    "rating":4.3,
+    "payments_method":"all",
+    "total_votes":8400,
+    "reviews":3309,
+    "cost_for_one":600,
+    "categories":[
+            {"cat":"continental"},
+            {"cat":"Pizza"},
+            {"cat":"burger"},
+            {"cat":"asian"},
+            {"cat":"American"}
+
+    ]
+    
+},
+{
+    "hotel_name":"KFC",
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/lss7efyulnds5ktnnlsd",
+    "rating":4.0,
+    "payments_method":"online payments",
+    "total_votes":4200,
+    "reviews":33209,
+    "cost_for_one":400,
+    "categories":[
+            {"cat":"continental"},
+            {"cat":"Pizza"},
+            {"cat":"burger"},
+            {"cat":"Fired Chicken"}
+
+    ]
+    
+},
+{
+    "hotel_name":"Glen's Bakehouse",
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/renlaj4hfqrfviz23bqq",
+    "rating":1.0,
+    "payments_method":"cash",
+    "total_votes":100,
+    "reviews":209,
+    "cost_for_one":300,
+    "categories":[
+            {"cat":"desserts"},
+            {"cat":"bakery"}
+     
+
+    ]
+    
+},
+{
+    "hotel_name":"Savoury",
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/pwgsnvgzk81cvd3nwetj",
+    "rating":3.8,
+    "payments_method":"all",
+    "total_votes":12400,
+    "reviews":9309,
+    "cost_for_one":450,
+    "categories":[
+            {"cat":"continental"},
+            {"cat":"Pizza"},
+            {"cat":"burger"},
+            {"cat":"asian"}
+
+    ]
+    
+}
+]
+   
+}

@@ -1,0 +1,44 @@
+.restaurant{
+    display: flex;
+   
+    width: 500px;
+    justify-content: space-between;
+}
+.category{
+    display: flex;
+    font-size:13px
+}
+.image{
+    width:180px;
+    height: 200px;
+}
+.mid-div{
+    text-align: left
+}
+.container{
+    width: 500px;
+    border: 1px solid black;
+
+
+}
+.button{
+    margin-left: 350px;
+    padding:10px 40px 10px 40px;
+    
+}
+.rating{
+    background-color: rgb(69, 179, 105);
+    width:40px;
+    border-radius:5px;
+    margin-left: 40px;
+    text-align: center;
+}
+.last_div{
+    text-align: right
+}
+.main{
+    display:grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 20px;
+    padding-left: 10%;
+}
